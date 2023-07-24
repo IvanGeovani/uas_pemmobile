@@ -7,3 +7,6 @@ Data API yang akan kita tampilkan pada layar smartphone adalah dari Random Quote
 
 Random Quote (quote-api.dicoding.dev/random)
 List Quote (quote-api.dicoding.dev/list)
+
+<img src="hasil.png">
+<img src="hasil2.png">
